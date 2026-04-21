@@ -1,0 +1,3 @@
+Marie - Moyenne: 17.0
+Jean - Moyenne: 13.666666666666666
+Paul - Moyenne: 10.0
