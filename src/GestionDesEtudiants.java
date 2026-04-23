@@ -2,7 +2,7 @@ import java.io.*;
 import java.util.List;
 import java.util.ArrayList;
 public class GestionDesEtudiants {
-
+j ecrisbso,ething
     public static List<Etudiant> lireCSV(String nomFichier) {
         List<Etudiant> liste = new ArrayList<>();
 
